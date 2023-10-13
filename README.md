@@ -1,0 +1,1 @@
+Komentārs jaunajā repo
