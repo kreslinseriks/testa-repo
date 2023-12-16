@@ -5,3 +5,4 @@ sum = 3 + 5
 print(sum)
 print('relize ir klat')
 print('japieliek hotfix')
+print('īeliku hotfix2'')
